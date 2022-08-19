@@ -64,7 +64,8 @@ let gitAddCode = 'gitt add -a'
     It should be a string containing the code to commit using the message "initial commit".
 */
 
-//CODE HERE
+let gitCommitDefinition = 'takes a snapshot of your files you are tracking'
+let gitCommitCode = 'git commit -m initialCommit'
 
 
 //////////////////PROBLEM 8////////////////////
@@ -73,4 +74,4 @@ let gitAddCode = 'gitt add -a'
     It should be a string containing your best definition of what 'git push' does.
 */
 
-//CODE HERE
+let gitPushDefinition = 'uploads your local repository to github'
